@@ -25,4 +25,17 @@ Steps:
 
    ![Run Code](/Images/Run.png)
   
-3.   
+3. Now the _program_ will ask for the _**folder**_ in which all your _**html/htm** files_ are stored. In this _example_ all of _Django Project's **html** files_ are stored in _**templates** folder_.
+
+   ![Assets Folder](/Images/Folder.png)
+   
+- You can give _the program **full path**_ of that **folder** (**_all_** the **html** files within that _folder_ will be **_scanned_**) _or_ you can _**directly**_ give the _path_ of the *__html__ file* you want to _scan & update_ (_**only**_ _that file_ will be _scanned_).  
+- In this case I am _giving path_ of the **templates** folder in which _all_ of the _**html**_ files are stored.
+
+   ![Give Full Path](/Images/GivingFilePath.png)
+   
+- The _program_ will _scan through_ given _**html** file(s)_ & will save converted outputs in _**Formatter_Generated_Files** folder_ in the **same** _directory_.
+
+   ![program Execution](/Images/Execution.png)
+  
+   ![Run Code](/Images/NewFolder.png)

@@ -21,7 +21,7 @@ _To this:_
 #### 1. Through Github:
 Steps:
 1. __Clone__ this _repository_ **anywhere** in your pc. (**No need** to clone in your _Django project_ folder!)
-2. Go to the _cloned directory_ and _run_ __`OsScrawler.py`__ program. 
+2. Now do __`cd (Cloned Directory path)/DjangoHtmlFiller/OsScrawler.py`__ and then _run_ __`OsScrawler.py`__ program. 
 
    ![Run Code](/Images/Run.png)
   

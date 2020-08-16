@@ -40,6 +40,6 @@ Steps:
   
    ![Run Code](/Images/NewFolder.png)
    
-- You are Done! :+1: :smile:   
+- Now just **replace** this _**files**_ in place of the _**original files**_ & you are _**Done!**_ :+1: :smile:   
    
-- You can _run_ this program **_multiple_** times for the _same folder_ & it **_won't affect_** the _already **converted** files_.   
+You can _run_ this program **_multiple_** times for the _same folder_ & it **_won't affect_** the _already **converted** files_.   

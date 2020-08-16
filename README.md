@@ -23,7 +23,7 @@ _To this:_
 ## How To Use:
 #### 1. Through Github:
 Steps:
-1. __Clone__ [this _repository](https://github.com/Jay206-Programmer/DjangoHtmlFiller)_ **anywhere** in your pc. (**No need** to clone in your _Django project_ folder!)
+1. __Clone__ [this repository](https://github.com/Jay206-Programmer/DjangoHtmlFiller) **anywhere** in your pc. (**No need** to clone in your _Django project_ folder!)
 2. Now do __`cd (Cloned Directory path)/DjangoHtmlFiller/OsScrawler.py`__ and then _run_ __`OsScrawler.py`__ program. 
 
    ![Run Code](/Images/Run.png)

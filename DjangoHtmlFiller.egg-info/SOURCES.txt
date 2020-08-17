@@ -7,5 +7,4 @@ DjangoHtmlFiller/OsScrawler.py
 DjangoHtmlFiller.egg-info/PKG-INFO
 DjangoHtmlFiller.egg-info/SOURCES.txt
 DjangoHtmlFiller.egg-info/dependency_links.txt
-DjangoHtmlFiller.egg-info/requires.txt
 DjangoHtmlFiller.egg-info/top_level.txt

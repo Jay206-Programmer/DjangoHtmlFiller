@@ -8,7 +8,7 @@ def readme():
 
 setup(
     name="DjangoHtmlFiller",
-    version="1.0.2",
+    version="1.0.3",
     description="Auto href/src links(js,css,images' reference) modifier for Django Project's html files.",
     long_description=readme(),
     long_description_content_type="text/markdown",

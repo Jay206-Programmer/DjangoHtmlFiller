@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: DjangoHtmlFiller
-Version: 1.0.2
+Version: 1.0.3
 Summary: Auto href/src links(js,css,images' reference) modifier for Django Project's html files.
 Home-page: https://github.com/Jay206-Programmer/DjangoHtmlFiller
 Author: Jay Shukla

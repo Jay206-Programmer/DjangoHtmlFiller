@@ -9,7 +9,7 @@ def readme():
 setup(
     name="DjangoHtmlFiller",
     version="1.0.0",
-    description="Auto html filler for Django Project's html files.",
+    description="Auto href/src links(js,css,images' reference) modifier for Django Project's html files.",
     long_description=readme(),
     long_description_content_type="text/markdown",
     url="https://github.com/Jay206-Programmer/DjangoHtmlFiller",

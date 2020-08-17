@@ -4,11 +4,11 @@ This code is for those who are tired of inserting `{% static ' ' %}` in every **
 
 _From this:_
 
-![Normal Html](/Images/Normal.png)
+![Normal Html](https://github.com/Jay206-Programmer/DjangoHtmlFiller/blob/master/Images/Normal.png)
 
 _To this:_ 
 
-![Formatted for Django](/Images/AfterExec.png)
+![Formatted for Django](https://github.com/Jay206-Programmer/DjangoHtmlFiller/blob/master/Images/AfterExec.png)
 
 ## Purpose:
 - The Main puspose of this code is to **save hours of work** by **_automatically_** scanning through  & updating all the _html_ files in the given folder.

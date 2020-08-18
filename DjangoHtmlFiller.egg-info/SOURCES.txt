@@ -4,6 +4,7 @@ README.md
 setup.py
 DjangoHtmlFiller/Inserter.py
 DjangoHtmlFiller/OsScrawler.py
+DjangoHtmlFiller/__init__.py
 DjangoHtmlFiller.egg-info/PKG-INFO
 DjangoHtmlFiller.egg-info/SOURCES.txt
 DjangoHtmlFiller.egg-info/dependency_links.txt

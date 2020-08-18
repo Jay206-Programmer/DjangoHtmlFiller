@@ -1,6 +1,6 @@
 import os
 import sys
-import Inserter
+from DjangoHtmlFiller import Inserter
 
 
 def indent(num):

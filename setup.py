@@ -8,8 +8,8 @@ def readme():
 
 setup(
     name="DjangoHtmlFiller",
-    version="1.0.3",
-    description="Auto href/src links(js,css,images' reference) modifier for Django Project's html files.",
+    version="1.0.4",
+    description="This code is for those who are tired of inserting {% static ' ' %} in every href,src links in html files while creating a Django project.",
     long_description=readme(),
     long_description_content_type="text/markdown",
     url="https://github.com/Jay206-Programmer/DjangoHtmlFiller",

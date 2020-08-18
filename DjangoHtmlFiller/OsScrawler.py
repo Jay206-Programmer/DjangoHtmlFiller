@@ -70,14 +70,14 @@ def Findin_Folder():
 def DjangoScrawler():
     list = os.listdir()
     for dir in list:
-        if os.path.isdir(dir):
+        if os.path.isdir(dir) and dir != "Formatter_Generated_Files":
             print(f"*****Entering Folder {dir}*****")
             os.chdir(dir)
             DjangoScrawler()
         else:
             if dir.endswith(".html") or dir.endswith(".htm"):
                 Inserter.DjangoFormatter(dir)
-               
+                
             
     print(f"*****Exiting Folder {os.path.basename(os.getcwd())}*****")        
     os.chdir("..")
@@ -85,11 +85,16 @@ def DjangoScrawler():
 def DjangoBot():
     try:
         fld = input('Enter the folder you want to Scrawl: ')
-        if fld == "quit()":
-            sys.exit()       
-        print(f"\n*****Entering Folder {fld}*****")
-        os.chdir(fld)
-        DjangoScrawler()
+        if os.path.isdir(fld):
+            print(f"\n*****Entering Folder {fld}*****")
+            os.chdir(fld)
+            DjangoScrawler()
+        else:
+            if fld.endswith(".html") or fld.endswith(".htm"):
+                Inserter.DjangoFormatter(fld)
+            else:
+                print("Error, Given file type is unsupported!! Please give only .html or .htm file path to the formatter.")                    
+                
     except:
         print(sys.exc_info()[0],"Occured!")
     

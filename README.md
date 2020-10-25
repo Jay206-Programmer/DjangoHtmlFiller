@@ -71,6 +71,6 @@ _And you are done!!_
 
 - You **CAN'T** have **more than one** _href/src_ links in the _same line_ (_super rare case_). In this case the code will _**only formate left most link**_ & you will have to _**manually** formate_ the _other one_. 
 
-If you have any **_query_** regarding this _programe_ you can drop a _message_ at **`jayshukla0034@gmail.com`** or at [Instagram](https://www.instagram.com/jay_shukla_20_06/?hl=en) or [Linkedin](https://www.linkedin.com/in/jay-shukla-49b2781a6/). 
+If you have any **_query_** regarding this _programe_ you can drop a _message_ at **`jayshukla0034@gmail.com`** or at [Instagram](https://www.instagram.com/jay_shukla_20_06/?hl=en) or [Linkedin](https://www.linkedin.com/in/jay-shukla-49b2781a6/).
 
 **Enjoy!** :smile:

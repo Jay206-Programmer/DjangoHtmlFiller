@@ -2,11 +2,11 @@
 
 This code is for those who are tired of inserting `{% static ' ' %}` in every **href,src** links in __*html*__ files while creating a __*Django project*__ :sassy_man:
 
-_From this:_
+_From this :_
 
 ![Normal Html](https://raw.githubusercontent.com/Jay206-Programmer/DjangoHtmlFiller/master/Images/Normal.png)
 
-_To this:_ 
+_To this :_ 
 
 ![Formatted for Django](https://raw.githubusercontent.com/Jay206-Programmer/DjangoHtmlFiller/master/Images/AfterExec.png)
 
